@@ -1,0 +1,6 @@
+{
+  "name": "Live Health Tracker",
+  "description": "An immersive 3D-styled health dashboard combining phone sensors, wearable device simulation, and AI-driven health analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
